@@ -1,0 +1,3 @@
+1)1.vaya,2.bote,3.vez,4.tuvo,5.hasta,6.asta,7.aboyaron
+2)1.vaya,2.bote,3.ves,4.tuvo,5.asta,6.hasta,7.aboyaron
+3)1.baya,2.vote,3.vez,4.tubo,5.hasta,6.asta,7.abollaron

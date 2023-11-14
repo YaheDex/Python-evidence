@@ -1,0 +1,2 @@
+En este despliegue, se seleccionara aleatoriamente un test de la base de datos, el test puede corresponder a:
+ortografia, gramatica o lectura
